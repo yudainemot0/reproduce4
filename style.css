@@ -1,0 +1,21 @@
+h1, h2, header span, nav ul li {
+    font-family: 'Zapfino',sans-serif;
+}
+
+nav ul li {
+    font-size: 8px;
+}
+
+@media (min-width: 768px) {
+    iframe {
+        width: 450px;
+        height: 400px;
+    }
+}
+
+@media (min-width: 1024px) {
+    iframe {
+        width: 750px;
+        height: 500px;
+    }
+}
